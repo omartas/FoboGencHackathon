@@ -1,6 +1,8 @@
-# basitdeneme
+# Genco
 
 İnsanların gitmek istedikleri etkinliklere arkadaş bulabilmesi ya da bir etkinlik oluşturup katılabileceği bir sosyal medya uygulaması
+
+
 ![Screenshot_20230408_023341](https://user-images.githubusercontent.com/56955207/230692312-39d1c20f-feef-4b71-87d7-f7082d3edbb9.png)
 ![Screenshot_20230408_023349](https://user-images.githubusercontent.com/56955207/230692361-3563b510-dd05-478c-99ae-160aeaa0f7fc.png)
 ![Screenshot_20230408_023356](https://user-images.githubusercontent.com/56955207/230692368-a4c4f050-50e1-4e29-a428-1599787cad62.png)
